@@ -1,2 +1,2 @@
-# Machine-learning-uisng-Python
+# Machine-learning-using-Python
 This is my first repository on Machine learning algorithms.
